@@ -1,4 +1,4 @@
 int mian()
 {
-    return 0;
+	return fjhfjdhsfklshkfhskdhjkds;
 }
